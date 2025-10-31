@@ -1,0 +1,5 @@
+{
+  "name": "Art Institute of Chicago Gallery",
+  "description": "A visually stunning web application to explore and search for artworks from the Art Institute of Chicago's extensive collection, built using their public API.",
+  "requestFramePermissions": []
+}
